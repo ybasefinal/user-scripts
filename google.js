@@ -11,4 +11,5 @@
 (function() {
     'use strict';
     document.querySelectorAll("#rso .r>a:not(.fl)").forEach(e=>{e.target="_blank"});
+    document.querySelectorAll("#rso g-scrolling-carousel a").forEach(e=>{e.target="_blank"});
 })();
