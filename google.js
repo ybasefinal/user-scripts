@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  open link in new tab
 // @author       You
 // @match        https://www.google.com/search?*
