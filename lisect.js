@@ -11,4 +11,5 @@
 $(function() {
     'use strict';
     $(".box a[target=_blank]").removeAttr("target");
+    $("a:contains(字幕组)").attr("href", "http://www.zmz2019.com/");
 });
